@@ -1,8 +1,9 @@
 # RS Clone
 
-| Deadline | Repo name |
-| -------- | --------- |
-|          | rsclone   |
+| Deadline         |   Repo name    |
+| ---------------- | -------------- |
+| 06.09.2022       | rsclone        |
+
 
 ## Оглавление
 
