@@ -193,7 +193,21 @@ RS Clone - это командное задание, в ходе выполне�
 
 ### Работы студентов предыдущих наборов
 
-**TODO:(ДОБАВИТЬ РАБОТЫ 2022Q1)**
+<details><summary> 2021Q1 </summary>
+  
+ **Приложения:**
+
+- [RS Sloth] (https://sloths.rs.school/catalog)
+- [RS Recipes] (https://kravchuk-st.github.io/rs-clone/recipes.html)
+- [Twitter clone] (https://firdavs-projects.github.io/twitter-clone/)
+- [Core JS] (https://corejs.netlify.app/)
+- [Perfect ear] (https://perfect-ear.netlify.app/)
+  
+**Игры:**
+
+- [RSWorms] (https://wsko-12.github.io/RSWorms/client/)
+
+</details>
 
 <details><summary> 2021Q3 </summary>
 
